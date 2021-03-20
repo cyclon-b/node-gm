@@ -4,8 +4,7 @@
   "description": "",
   "scripts": {
     "task1": "nodemon --config nodemon.json tasks/task_1.ts",
-    "task2": "nodemon --config nodemon.json tasks/task_2.ts",
-    "task3": "nodemon tsc tasks/task_3.ts"
+    "task2": "nodemon --config nodemon.json tasks/task_2.ts"
   },
   "keywords": [],
   "author": "Gennadii Artamonov",
